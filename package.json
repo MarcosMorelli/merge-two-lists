@@ -1,0 +1,14 @@
+{
+  "name": "merge-two-sorted-linked-lists",
+  "version": "1.0.0",
+  "description": "Simple exercise of algorithms",
+  "main": "merge-two-lists.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha ."
+  },
+  "author": "Morelli",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
